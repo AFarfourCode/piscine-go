@@ -5,12 +5,13 @@ The Piscine is an intensive, hands-on coding bootcamp designed to build strong p
 
 During this stage, I worked on:
 
-Writing clean, efficient, and well-structured code.
+* Writing clean, efficient, and well-structured code.
 
-Solving algorithmic challenges with a focus on logic and efficiency.
+* Solving algorithmic challenges with a focus on logic and efficiency.
 
-Collaborating with peers to complete group projects.
+* Collaborating with peers to complete group projects.
 
-Strengthening my understanding of C programming, Git, and shell commands.
+* Strengthening my understanding of C programming, Git, and shell commands.
 
 This repo reflects my journey of growth, resilience, and continuous learning throughout the Piscine experience.
+
