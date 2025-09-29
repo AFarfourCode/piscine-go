@@ -1,0 +1,1 @@
+curl -s https://01.nextera.education/assets/superhero/all.json | jq 'map(select(.id == 170)) | .[] | {name: .name, power: .power, gender: .gender}'
